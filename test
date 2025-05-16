@@ -1,0 +1,2 @@
+local word = "hello"
+print("word")
